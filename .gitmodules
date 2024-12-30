@@ -1,0 +1,3 @@
+[submodule "Lofocam"]
+	path = Lofocam
+	url = https://github.com/Aphyne/LofocamRetriever.git
